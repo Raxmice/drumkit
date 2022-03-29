@@ -32,7 +32,7 @@ body{
     justify-content: center;
 }
 .desk{
-    display: block;
+    display: flex;
 }
 .tab, .mob{
     display: none;
